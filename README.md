@@ -1,2 +1,5 @@
 # Rock-paper-scissors
 This is a simple repository of rock paper and scissors game
+<p>Go to App-lab and start a new project </p><p>1. Create the main Screen as shown in the picture. </p><p>I  have selected the picture from google. You can pick your own </p><p>2. Setup your Screen one and screen -2 </p><p>I am skipping here the simple procedure of how to design a beautiful screen. please follow our  You-Tube Videos  for step by step understanding  - <a href="https://www.youtube.com/channel/UClc0WE7OwJy9NpszIGeSsCA">Video</a></p><p>Also, I am sharing the complete project for quick access( <a href="https://studio.code.org/projects/applab/_QI6ZscaVoVQTy6K5svLwW63FyqrtI36eM5_8m9T1sw">click here</a>)</p>
+
+<p>There are three conditions</p><p>1. You Choose Rock </p><p>2. You Choose paper</p><p>3. You Choose Scissors for all three conditions, you need to write the code. I have provided the <a href="https://studio.code.org/projects/applab/_QI6ZscaVoVQTy6K5svLwW63FyqrtI36eM5_8m9T1sw">link to the project</a> as well as a screenshot of the code. As it is block-based code can not  </p>
